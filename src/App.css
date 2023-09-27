@@ -1,0 +1,6 @@
+#root{
+    background-image: linear-gradient(0deg, rgba(145, 130, 130, 0.5), rgba(146, 142, 142, 0.5)), url("/src/components/img/confeti.jpg");
+    background-position: center;
+    background-size: cover;
+}
+
